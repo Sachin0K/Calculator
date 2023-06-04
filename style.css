@@ -2,7 +2,7 @@
 
 html,body{
     height: 100%;
-    width: 100%;
+  
     font-family: 'Roboto',sons-serif;
 }
 .button{
@@ -27,4 +27,21 @@ html,body{
     padding: 10px 0px;
     border: 2px solid black;
     border-radius: 5px;
+}
+.github-logo{
+    display: flex;
+    justify-content: center;
+ 
+    padding-top: 30px;
+    gap: 10px;
+}
+.logo{
+    
+    font-weight: bolder;
+   
+}
+
+img{
+        width: 40px;
+        height: 40px;
 }
